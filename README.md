@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi there 👋, I'm Sara Allahaleh</h1>
+<h1>Hi there 👋, I'm Sara Allahaleeh</h1>
 
 <h3>Computer Engineer</h3>
 
@@ -17,7 +17,7 @@
 <a href="https://www.boot.dev/certificates/34230e0c-7a13-4b2f-9f20-f0c16b63479c">
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/34230e0c-7a13-4b2f-9f20-f0c16b63479c.jpeg?v=1788367820"
        alt="Boot.dev Learn Git Certificate"
-       width="400">
+       width="300">
 </a>
 
 </div>
