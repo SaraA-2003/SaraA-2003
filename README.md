@@ -1,4 +1,14 @@
-<h1>📜 Certificates</h1>
+<div align="center">
+
+<h1>Hi there 👋, I'm Sara Allahaleh</h1>
+
+<h3>Computer Engineer</h3>
+
+</div>
+
+<br>
+
+<h1>Certificates</h1>
 
 <h2>Learn Git — Boot.dev</h2>
 
@@ -7,7 +17,9 @@
        alt="Boot.dev Learn Git Certificate"
        width="400">
 </a>
+
 <br><br><br>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" />
   &nbsp;
@@ -22,4 +34,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" width="40" height="40" alt="Entity Framework Core" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/verilog/verilog-original.svg" width="40" height="40" alt="Verilog" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL" />
 </p>
