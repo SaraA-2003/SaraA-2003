@@ -8,6 +8,7 @@
 
 <br>
 
+<div align="center">
 <h1>Certificates</h1>
 
 <h2>Learn Git — Boot.dev</h2>
@@ -17,9 +18,11 @@
        alt="Boot.dev Learn Git Certificate"
        width="400">
 </a>
-
+</div>
 <br><br><br>
+<div align="center">
 
+<h1>languages and Tools</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" />
   &nbsp;
@@ -39,7 +42,15 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" width="40" height="40" alt="Entity Framework Core" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/verilog/verilog-original.svg" width="40" height="40" alt="Verilog" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+     width="40" height="40" alt="Git" />
+&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
+     width="40" height="40" alt="WSL" />
+&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+     width="40" height="40" alt="Postman" />
 </p>
+</div>
